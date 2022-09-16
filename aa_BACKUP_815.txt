@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 Hello
 =======
-
+Hello 
 Good evening
 >>>>>>> shankar
-
